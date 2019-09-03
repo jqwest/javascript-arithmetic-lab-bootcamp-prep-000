@@ -1,6 +1,6 @@
 var number;
 function add(a, b){ //add a and b and return the result.
-  number = 5 + 10;
+  number = a + b;
   return number;
 }
 function subtract(a, b){ //subtract a and b and return the result.

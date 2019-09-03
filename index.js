@@ -16,11 +16,11 @@ function divide(a, b){ //divide a and b and return the result.
   return number;
 }
 function inc(a){ //Increment a by 1 and return the result.
-  number = a++;
+  number = a ;
   return number;
 }
 function dec(a){ //Decrement a by 1 and return the result.
-  number = a--;
+  number = a ;
   return number;
 }
 function makeInt(a){ //Parse a as an integer and return that integer.

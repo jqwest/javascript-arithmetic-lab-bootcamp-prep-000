@@ -19,8 +19,8 @@ function inc(a){ //Increment a by 1 and return the result.
   number = a++;
   return number;
 }
-function dec(n){ //Decrement a by 1 and return the result.
-  number = n--;
+function dec(a){ //Decrement a by 1 and return the result.
+  number = a--;
   return number;
 }
 function makeInt(n){ //Parse a as an integer and return that integer.

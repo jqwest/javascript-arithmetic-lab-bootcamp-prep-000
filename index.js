@@ -15,8 +15,8 @@ function divide(a, b){ //divide a and b and return the result.
   number = a / b;
   return number;
 }
-function inc(n){ //Increment a by 1 and return the result.
-  number = n++;
+function inc(a){ //Increment a by 1 and return the result.
+  number = a++;
   return number;
 }
 function dec(n){ //Decrement a by 1 and return the result.
